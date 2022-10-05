@@ -113,3 +113,18 @@ header{
 .card-movie img:hover{
     transform: scale(1.05, 1.04);
 }
+
+footer{
+    display: flex;
+    color: rgb(40, 40, 40);
+    padding: 2%;
+}
+
+footer h5{
+    width: 100%;
+    text-align: center;
+    transition: .5s;
+}
+footer h5:hover{
+    cursor: pointer;
+}
