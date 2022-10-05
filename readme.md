@@ -1,5 +1,8 @@
-Este clone do Twitter foi desenvolvido no Bootcamp de Imersão Front-End da Codi Academy(curso parceiro da UFJF);
+# Clone Amazon Prime Video - movies API
 
-Este tem objetivo apenas de treinar css e html, o mesmo não possui as funcionalidades do Twitter.
 
-link : https://camposcodes.github.io/Clone/
+- Este clone do Amazon Prime Video foi desenvolvido como proposta pessoal a fim de consumir uma API de filmes com JavaScript;
+
+- Este tem objetivo apenas de treinar css html e JavaScript,além de consumir uma API de filmes, o mesmo não possui as funcionalidades do Amazon Prime Video.
+
+- link : https://camposcodes.github.io/CloneAmazonPrimeVideo/
