@@ -125,6 +125,6 @@ footer h5{
     text-align: center;
     transition: .5s;
 }
-footer h5:hover{
+footer h5:hover{   
     cursor: pointer;
 }
