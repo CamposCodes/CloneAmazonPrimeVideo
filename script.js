@@ -33,3 +33,14 @@ fetch(API_URL).then(response=>response.json()).then(data=>{
 });
 
 //
+
+
+let ass = document.querySelector('#ass');
+
+ass.addEventListener('mouseenter', ()=>{
+    ass.textContent = 'CamposCodes was here...';
+});
+ass.addEventListener('mouseout', ()=>{
+    ass.textContent = 'Desenvolvido por Gabriel Campos Lima Alves';
+});
+
